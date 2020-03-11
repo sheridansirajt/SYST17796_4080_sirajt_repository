@@ -1,5 +1,7 @@
 package assignment2;
 
+import assignment2.UnoDeck.*;
+
 
 public class UnoDeck {
 	private static String Draw4;
